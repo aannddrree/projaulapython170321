@@ -5,3 +5,4 @@ frutas[0] = "Sei la"
 frutas.sort()
 for f in frutas:
     print(f)
+    print("Terminei")
